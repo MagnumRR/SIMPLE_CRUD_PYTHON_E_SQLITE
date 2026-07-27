@@ -1,4 +1,4 @@
-# CRUD SIMPLES - Python e SQLite
+# PROJETO Python e SQLite
 Projeto simples de CRUD, feito em linguagem Python utilizando como banco, o SQLite, que já vem no próprio Python.
 
 ## Estrutura
